@@ -1,3 +1,0 @@
-Send the source code used for building models in a zip or share the link to the GitHub repository to the below 
-Email ID: omprakash@knightfintech.com
-Subject: ML Internship

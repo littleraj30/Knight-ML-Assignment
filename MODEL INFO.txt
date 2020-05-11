@@ -1,0 +1,9 @@
+Summary :
+
+1. Model Used : LGB
+
+2. Feature extracted and transformed : 
+		Used TFIDF to extract feature from review description, review title and designation. Also extracted
+		continent with the use of country. Transformed Price into log(1+Price) and removed outliers.
+
+3. Model Accuracy : Validation F1 Score : 0.932523527346495 and Accuracy Score : 0.9323672743212232
